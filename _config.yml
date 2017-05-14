@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This are the topics that inserests me.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "https://kodalisitaram.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 disqus_username:
