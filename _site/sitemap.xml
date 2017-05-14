@@ -3,18 +3,18 @@
 
   
   <url>
-    <loc>http://localhost:4000/posts/quickbooks-netapp/</loc>
+    <loc>http://localhost:4000/posts/bug-alarm/</loc>
     
-      <lastmod>2016-11-28</lastmod>
+      <lastmod>2017-05-15</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/bug-alarm/</loc>
+    <loc>http://localhost:4000/posts/quickbooks-netapp/</loc>
     
-      <lastmod>0201-05-15</lastmod>
+      <lastmod>2016-11-28</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
