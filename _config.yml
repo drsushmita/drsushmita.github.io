@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Roll the throttle..
+title: MoBites
 email: kodalisitaram@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This are the topics that inserests me.
@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "https://kodalisitaram.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  kodalisitaram
 disqus_username:
 
 # Build settings
