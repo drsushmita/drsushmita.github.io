@@ -1,5 +1,5 @@
 ---
-bg: "mk.jpg"
+bg: "sy.jpg"
 layout: page
 title: "About"
 crawlertitle: "Mohan Kodali's Blog"
@@ -7,4 +7,4 @@ permalink: /about/
 summary: ""
 active: about
 ---
-Hi, this is Mohan Kodali, I work as Development Manager. I am thankful to the community in helping me every day with my questions. Here is my contribution.
+Hi, this is Dr. Sushmita Yaganti, I work as Medical Sience Laison. I am thankful to the community in helping me every day with my questions. Here is my contribution.

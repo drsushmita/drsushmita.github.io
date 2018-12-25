@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MoBites</title>
+    <title>Dr. Sushmita Yaganti Blog</title>
     <description>This are the topics that inserests me.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Dec 2018 21:07:28 -0600</pubDate>
-    <lastBuildDate>Mon, 24 Dec 2018 21:07:28 -0600</lastBuildDate>
+    <pubDate>Tue, 25 Dec 2018 08:34:18 -0600</pubDate>
+    <lastBuildDate>Tue, 25 Dec 2018 08:34:18 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Hello World! - IOT</title>
+        <title>Immuno-Localization</title>
         <description>&lt;p&gt;This is a quick intro to IOT. We will talk about basics of IoT, the individual components and various applications of IoT. Let’s first try to understand what IoT is by definition. It’s an inter-network of things and thing can be a person, a pet, a car, a cell phone, a Blood Glucose monitoring device or any other natural or manmade object that can connect to a network and exchange data.&lt;/p&gt;
 
 &lt;p&gt;By definition it is very clear that the concept of IoT is not something new and it’s been there for a while. It is getting that needed attention because of improvement in various fields (but not limited to).&lt;/p&gt;
@@ -83,7 +83,7 @@ With all these different protocols and considering the fact that these are low p
       </item>
     
       <item>
-        <title>Production Bug Alarm</title>
+        <title>The Retina Society – 2018 Meeting Highlights</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -113,7 +113,7 @@ With all these different protocols and considering the fact that these are low p
       </item>
     
       <item>
-        <title>Integrating To Quickbooks</title>
+        <title>Ten Tips to Prevent and Treat Iris Prolapse</title>
         <description>&lt;p&gt;In this post we will see how we can integrate QuickBooks Desktop / Server version with an Asp.Net web application. After going through the Intuit developer’s portal I understood that we need to use QuickBooks Web Connector tool to integrate a desktop version with a web application.&lt;/p&gt;
 
 &lt;p&gt;Here is a pictorial representation of communication model and data flow.
